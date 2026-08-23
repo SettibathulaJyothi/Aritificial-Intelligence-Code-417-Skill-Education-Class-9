@@ -1,1 +1,1 @@
-Aritificial-Intelligence-Code-417-Skill-Education-Class-10
+https://cbseskilleducation.com/artificial-intelligence-class-10-notes/
