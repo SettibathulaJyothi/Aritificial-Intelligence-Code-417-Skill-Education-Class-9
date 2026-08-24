@@ -1,1 +1,1 @@
-https://cbseskilleducation.com/artificial-intelligence-class-10-notes/
+https://cbseskilleducation.com/artificial-intelligence-class-9/
