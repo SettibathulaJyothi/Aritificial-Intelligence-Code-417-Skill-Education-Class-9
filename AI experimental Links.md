@@ -1,4 +1,4 @@
-quick draw: https://quickdraw.withgoogle.com/  
+quick draw: https://quickdraw.withgoogle.com/   
 
 num gusser:https://numguessr.netlify.app/  
 
@@ -9,3 +9,5 @@ teachable machine: https://teachablemachine.withgoogle.com/
 tixtactoe:https://playtictactoe.org/  
 
 image generator :https://dream.ai/create  
+
+inklet writer:https://www.inklewriter.com/
